@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5263313403472265193
+  m_GuidHigh: 8008962580966650761
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5144510489547105404
+      m_GuidHigh: 2179444943230415798
+    m_SerializedTextureGuid:
+      m_GuidLow: 6734216391852723095
+      m_GuidHigh: 9812857930445813657
+    m_Size: {x: 0.1, y: 0.14174959}
+    m_SpecifySize: 1
+    m_Name: book
+    m_Texture: {fileID: 2800000, guid: 04fe8b97be215d7499f798074c462e88, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5005784666163296112
+      m_GuidHigh: 10794262178738751678
+    m_SerializedTextureGuid:
+      m_GuidLow: 2581818679708756451
+      m_GuidHigh: 18226277924556985147
+    m_Size: {x: 0.1, y: 0.23830022}
+    m_SpecifySize: 1
+    m_Name: keyboard
+    m_Texture: {fileID: 2800000, guid: fe8229e3766823d43b53c39634bff0fc, type: 3}
